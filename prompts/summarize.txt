@@ -1,0 +1,9 @@
+Write a concise, customer-facing notification about the incident described
+in the ticket below.
+
+Rules:
+- One or two sentences, plain language, no jargon.
+- State what happened, what was affected, how long it lasted, and current status.
+- NEVER include internal hostnames, IP addresses, email addresses, ticket IDs,
+  employee names, deploy versions, or internal tool names.
+- Do not invent details not present in the ticket.
