@@ -1,0 +1,2 @@
+# Serving / benchmarking only (heavy dependency, install separately)
+vllm>=0.5
